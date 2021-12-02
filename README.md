@@ -1,4 +1,4 @@
-# week-planner
+# Week Planner
 
 ![Week Planner](https://github.com/branivreyes/week-planner/blob/main/week-planner.png)
 

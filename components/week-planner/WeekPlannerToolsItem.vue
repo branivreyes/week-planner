@@ -18,7 +18,7 @@
                 <span
                     v-if="disabled"
                 >
-                    esta función esta deshabilitada.
+                    this function is disabled.
                 </span>
             </div>
             <el-button-group
